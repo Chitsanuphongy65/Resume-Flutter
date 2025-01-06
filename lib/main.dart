@@ -28,7 +28,7 @@ class MyApp extends StatelessWidget {
                     children: [
                       CircleAvatar(
                         radius: 50, // ขนาดรูปภาพ
-                        backgroundImage: NetworkImage('https://scontent-bkk1-1.cdninstagram.com/v/t51.2885-19/467122595_884890026746240_6716217790093790736_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=scontent-bkk1-1.cdninstagram.com&_nc_cat=108&_nc_ohc=sycGf3GqC_8Q7kNvgFiBzzs&_nc_gid=01d1b191c97f4ec8a52076766ea0093b&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AYATtsjvimYj0aRmw5ImFDRdXTXJKeiiREum3S6KzljPUg&oe=676EFD00&_nc_sid=8b3546'), // เปลี่ยน "me.jpg" เป็นรูปของคุณ
+                        backgroundImage: NetworkImage('https://instagram.fbkk22-8.fna.fbcdn.net/v/t51.2885-19/467122595_884890026746240_6716217790093790736_n.jpg?stp=dst-jpg_s320x320_tt6&_nc_ht=instagram.fbkk22-8.fna.fbcdn.net&_nc_cat=108&_nc_ohc=X3VtOKd6awEQ7kNvgFOYRQq&_nc_gid=3e089af21af64f15a625cb6a56861dca&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AYBm6x2LExQ03JbyomzjE9zQBwesyTOAd6L4Dik5xx9cKw&oe=67817200&_nc_sid=8b3546'), // เปลี่ยน "me.jpg" เป็นรูปของคุณ
                       ),
                       SizedBox(height: 8),
                       Text(
